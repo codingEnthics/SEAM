@@ -18,6 +18,7 @@ public class Student {
    
     double getAverageMark()
     {
+        
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
 
